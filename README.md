@@ -1,5 +1,5 @@
-# Ken_Portfolio
-Example data science portfolio
+# Timo Kropp Portfolio
+Some simple programming projects
 
 # [Project 1: GaltonBoard](https://github.com/Timokko/GaltonBoard) 
 * Simple animation of the famous Galton-Board.
