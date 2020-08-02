@@ -2,7 +2,7 @@
 
 ## [Galton Board](https://github.com/Timokko/GaltonBoard/blob/master/GaltonBoard.py)
 
- ![](/images/galton.png)
+ ![](/images/galton.gif)
  
 * Simple animation of the Galton-Board     
 * Using pygame for animation
