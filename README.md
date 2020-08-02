@@ -13,7 +13,7 @@
 
 ## [Lonely Runner Conjectur](https://github.com/TimoKropp/LonelyRunner/blob/master/lonely_runner.py)
 
- ![](/images/lonely_runner.png)
+ ![](/images/lonely_runner.gif)
  
 * Simple animation of the lonley runner conjecture     
 * Using pygame for animation
