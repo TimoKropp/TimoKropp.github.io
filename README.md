@@ -2,7 +2,7 @@
 
 ## [Galton Board](https://github.com/Timokko/GaltonBoard/blob/master/GaltonBoard.py)
 From Wikipedia:
-The bean machine, also known as the Galton Board or quincunx, is a device invented by Sir Francis Galton to demonstrate the central limit theorem, in particular that with sufficient sample size the binomial distribution approximates a normal distribution. Among its applications, it afforded insight into regression to the mean or "regression to mediocrity".
+The bean machine, also known as the Galton Board or quincunx, is a device invented by Sir Francis Galton to demonstrate the central limit theorem, in particular that with sufficient sample size the binomial distribution approximates a normal distribution. Among its applications, it afforded insight into regression to the mean or "regression to mediocrity".The Galton Board consists of a vertical board with interleaved rows of pegs. Beads are dropped from the top and, when the device is level, bounce either left or right as they hit the pegs. Eventually they are collected into bins at the bottom, where the height of bead columns accumulated in the bins approximate a bell curve.
 
  ![Animation created in python with pygame](/images/galton.gif)
  
