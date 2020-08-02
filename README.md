@@ -1,6 +1,6 @@
-# Simple python programming projects
+# Animation projects in python
 
-# [Galton Board](https://github.com/Timokko/GaltonBoard/blob/master/GaltonBoard.py)
+## [Galton Board](https://github.com/Timokko/GaltonBoard/blob/master/GaltonBoard.py)
 
  ![](/images/galton.png)
  
@@ -11,7 +11,7 @@
 
 
 
-# [Lonely Runner Conjectur](https://github.com/TimoKropp/LonelyRunner/blob/master/lonely_runner.py)
+## [Lonely Runner Conjectur](https://github.com/TimoKropp/LonelyRunner/blob/master/lonely_runner.py)
 
  ![](/images/lonely_runner.png)
  
