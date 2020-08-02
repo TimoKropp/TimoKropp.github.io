@@ -1,15 +1,15 @@
 # Simple python programming projects
 
 # [Galton Board](https://github.com/Timokko/GaltonBoard/blob/master/GaltonBoard.py)
-* Simple animation of the Galton-Board.
+* Simple animation of the Galton-Board      ![](/images/galton.png)
 * Using pygame for animation
 * Object orientated 
 
-![](/images/galton.png)
+
 
 
 # [Lonely Runner Conjectur](https://github.com/TimoKropp/LonelyRunner/blob/master/lonely_runner.py)
-* Simple animation of the lonley runner conjecture.
+* Simple animation of the lonley runner conjecture      ![](/images/lonely_runner.png)
 * Using pygame for animation
 * Object orientated 
-![](/images/lonely_runner.png)
+
