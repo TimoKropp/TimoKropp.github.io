@@ -1,5 +1,5 @@
-# Timo Kropp Portfolio
-Some simple programming projects
+# Simple Programming Projects
+
 
 # [Project 1: GaltonBoard](https://github.com/Timokko/GaltonBoard) 
 * Simple animation of the famous Galton-Board.
