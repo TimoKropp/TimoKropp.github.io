@@ -6,7 +6,7 @@ Dynamic time warping (DTW) is one of the algorithms for measuring similarity bet
 
  ![](/images/stock_analysis.png)
  
-The minimum of the transformaton distance (excluding 2 times the correlation interval from the present date) indicates the best correlation (light green) with a start interval at the location of the minimum and the duration of the correlation interval (dark green). 
+The minimum of the transformaton distance (excluding 2 times the correlation interval from the present date) indicates the best correlation (light green) with a start interval at the location of the minimum and the duration of the correlation period (dark green). 
 
 Lessons learned:  
 * Stock market data import to python
