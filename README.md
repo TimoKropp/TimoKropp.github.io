@@ -12,9 +12,10 @@ Lessons learned:
 * Work flow with dataframes
 * Dynamic time warping using fastDTW
 * Time series analysis for seriel correlation
-### [Click here for interactive notebook in your browser](https://mybinder.org/v2/gh/TimoKropp/DTW-stock-analysis/master)
-# 1-Day Animation Projects in Python
+### Play and interact with the _notebook_ (on MyBinder)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/TimoKropp/DTW-stock-analysis/master?filepath=notebooks)
 
+# 1-Day Animation Projects in Python
 ## [Galton Board](https://github.com/Timokko/GaltonBoard/blob/master/GaltonBoard.py)
 From Wikipedia:
 The bean machine, also known as the Galton Board or quincunx, is a device invented by Sir Francis Galton to demonstrate the central limit theorem, in particular that with sufficient sample size the binomial distribution approximates a normal distribution. Among its applications, it afforded insight into regression to the mean or "regression to mediocrity".The Galton Board consists of a vertical board with interleaved rows of pegs. Beads are dropped from the top and, when the device is level, bounce either left or right as they hit the pegs. Eventually they are collected into bins at the bottom, where the height of bead columns accumulated in the bins approximate a bell curve.
