@@ -28,7 +28,7 @@ Lessons learned:
 * Object orientated programming
 * Insights in statistics and distribution patterns
 
-## [Lonely Runner Conjectur](https://github.com/TimoKropp/LonelyRunner/blob/master/lonely_runner.py)
+## [Lonely Runner Conjectur](https://github.com/TimoKropp/LonelyRunner/blob/master/LonelyRunner.py)
 From Wikipedia:
 Consider *k* runners on a circular track of unit length. At *t* = 0, all runners are at the same position and start to run; the runners' speeds are pairwise distinct. A runner is said to be lonely at time t if they are at a distance of at least *1/k* from every other runner at time *t*. The lonely runner conjecture states that each runner is lonely at some time.
 
