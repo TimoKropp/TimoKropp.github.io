@@ -13,7 +13,7 @@ Lessons learned:
 * Dynamic time warping using fastDTW
 * Time series analysis for seriel correlation
 ### [Click here for interactive notebook in your browser](https://mybinder.org/v2/gh/TimoKropp/DTW-stock-analysis/master)
-# 1-Day animation projects in python
+# 1-Day Animation Projects in Python
 
 ## [Galton Board](https://github.com/Timokko/GaltonBoard/blob/master/GaltonBoard.py)
 From Wikipedia:
