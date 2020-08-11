@@ -1,16 +1,3 @@
-# Game Development in Unity (C#)
-## [3D Dodgeball Arena]()
-
-In this game project developed in Unity(C#) you can play a robot in a sci-fi world with inverted gravity on the inside of a sphere. It is a fast paced multiplayer third-person game where you battle against other players online in a dodgeball arena. You can shoot a flighing orb as a guided missile to the next opponent. Dodging with special abilities like a fast charge forward or sliding unterneath the incoming orb to give it an extra spin upwards makes this game fun do play, easy to learn but hard to master.
-
- ![](/images/dodgeball.png)
- 
- Lessons learned:  
-* 3D Game design
-* C# scripting
-* Realtime multiplayer networking with PhotonNetworking (PUN 2)
-* User Interface development
-
 # Data Science projects in python
 
 ## [Dynamic time warping for serial correlation analysis of stock market](https://github.com/TimoKropp/DTW-stock-analysis/blob/master/dtw_stock_analysis.py)
@@ -49,3 +36,16 @@ Consider *k* runners on a circular track of unit length. At *t* = 0, all runners
 * Using pygame for animation
 * Object orientated programming
 * Insights in geometry and number theory
+
+# Game Development in Unity (C#)
+## [3D Dodgeball Arena]()
+
+In this game project developed in Unity(C#) you can play a robot in a sci-fi world with inverted gravity on the inside of a sphere. It is a fast paced multiplayer third-person game where you battle against other players online in a dodgeball arena. You can shoot a flighing orb as a guided missile to the next opponent. Dodging with special abilities like a fast charge forward or sliding unterneath the incoming orb to give it an extra spin upwards makes this game fun do play, easy to learn but hard to master. 
+
+ ![](/images/dodgeball.png)
+ 
+ Lessons learned:  
+* 3D Game design
+* C# scripting
+* Realtime multiplayer networking with PhotonNetworking (PUN 2)
+* User Interface development
