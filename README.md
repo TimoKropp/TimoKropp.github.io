@@ -49,7 +49,8 @@ In this game development project in Unity(C#) you can play a robot in a sci-fi w
  Lessons learned:  
 * 3D game design
 * C# scripting
-* Realtime multiplayer networking with PhotonNetworking (PUN 2)
+* Realtime multiplayer networking with Photon Engine (PUN 2)
+* Server and game synchronization with ping compensation
 * User interface development
 
 (Download link for a demo is comming soon)
