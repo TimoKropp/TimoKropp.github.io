@@ -11,7 +11,7 @@ Lessons learned:
 * Stock market data import to python
 * Work flow with dataframes
 * Dynamic time warping using fastDTW
-* Time series analysis for seriel correlation
+* Time series analysis for serial correlation
 ### Play and interact with the _notebook_ (on MyBinder)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/TimoKropp/DTW-stock-analysis/master?filepath=notebooks)
 
@@ -41,14 +41,14 @@ Consider *k* runners on a circular track of unit length. At *t* = 0, all runners
 # Game Development in Unity (C#)
 ## [3D Dodgeball Arena]()
 
-In this game development project in Unity(C#) you can play a robot in a sci-fi world with inverted gravity on the inside of a sphere. It is a fast paced multiplayer third-person game where you battle against other players online in a dodgeball arena. You can shoot a flighing orb as a guided missile to the next opponent. Dodging with special abilities like a fast charge forward or sliding unterneath the incoming orb to give it an extra spin upwards makes this game fun do play, easy to learn but hard to master. 
+In this game development project in Unity(C#) you can play a robot in a sci-fi world with inverted gravity on the inside of a sphere. It is a fast paced multiplayer third-person game where you battle against other players online (upto 8 players) in a dodgeball arena. You can shoot a flighing orb as a guided missile to the next opponent. Dodging with special abilities like a fast charge forward or sliding unterneath the incoming orb to give it an extra spin upwards makes this game fun do play, easy to learn but hard to master. 
 
  ![](/images/dodgeball.png)
  
  Lessons learned:  
-* 3D Game design
+* 3D game design
 * C# scripting
 * Realtime multiplayer networking with PhotonNetworking (PUN 2)
-* User Interface development
+* User interface development
 
 (Download link for a demo is comming soon)
