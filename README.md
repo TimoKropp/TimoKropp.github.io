@@ -2,7 +2,7 @@
 
 ## [Dynamic Time Warping for Serial Correlation Analysis of Stock Market](https://github.com/TimoKropp/DTW-stock-analysis/blob/master/dtw_stock_analysis.py)
 ### Play and interact with the _notebook_ (on MyBinder)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/TimoKropp/DTW-stock-analysis/master?filepath=notebooks)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/TimoKropp/DTW-stock-analysis/master)
 
 Dynamic time warping (DTW) is one of the algorithms for measuring similarity between two time series. The data may vary in time and amplitude with example applications in analysis of temporal sequences of video, audio, and graphics data or in general any data that can be turned into a linear sequence. One of the most recent applications is found in automatic speech recognition coping with different speeds of speaking. In this project, the DTW algorithm is used for a serial correlation analysis of stock market prices, for example the Nasdaq (NDAQ) from 2019-01 to 2020-08 as shown in the figure below.
 
