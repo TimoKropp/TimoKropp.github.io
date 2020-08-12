@@ -53,4 +53,3 @@ In this game development project in Unity(C#) you can play a robot in a sci-fi w
 * Server and game synchronization with ping compensation
 * User interface development
 
-(Download link for a demo is comming soon)
