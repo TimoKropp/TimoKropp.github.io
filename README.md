@@ -33,23 +33,3 @@ From Wikipedia:
 Consider *k* runners on a circular track of unit length. At *t* = 0, all runners are at the same position and start to run; the runners' speeds are pairwise distinct. A runner is said to be lonely at time t if they are at a distance of at least *1/k* from every other runner at time *t*. The lonely runner conjecture states that each runner is lonely at some time.
 
  ![](/images/lonely_runner.gif)
- 
- Lessons learned:    
-* Using pygame for animation
-* Object orientated programming
-* Insights in geometry and number theory
-
-# Game Development in Unity (C#)
-## [3D Dodgeball Arena]()
-
-In this game development project in Unity(C#) you can play a robot in a sci-fi world with inverted gravity on the inside of a sphere. It is a fast paced multiplayer third-person game where you battle against other players online (upto 8 players) in a dodgeball arena. You can shoot a flighing orb as a guided missile to the next opponent. Dodging with special abilities like a fast charge forward or sliding unterneath the incoming orb to give it an extra spin upwards makes this game fun do play, easy to learn but hard to master. 
-
- ![](/images/dodgeball.png)
- 
- Lessons learned:  
-* 3D game design
-* C# scripting
-* Realtime multiplayer networking with Photon Engine (PUN 2)
-* Server and game synchronization with ping compensation
-* User interface development
-
