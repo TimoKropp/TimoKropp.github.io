@@ -17,10 +17,6 @@ The bean machine, also known as the Galton Board or quincunx, is a device invent
 
  ![](/images/galton.gif)
  
-Lessons learned:  
-* Using pygame for animation
-* Object orientated programming
-* Insights in statistics and distribution patterns
 
 ## [Lonely Runner Conjectur](https://github.com/TimoKropp/LonelyRunner/blob/master/LonelyRunner.py)
 From Wikipedia:
